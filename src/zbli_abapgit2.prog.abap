@@ -8,4 +8,5 @@ REPORT ZBLI_ABAPGIT2.
 WRITE: 'TEST2'.
 *& Test Florian
 Write: 'TEST Mahmoud'.
+*Hello from Mahmoud!
 WRITE: 'NEW TEST2'.
