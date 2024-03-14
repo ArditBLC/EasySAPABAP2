@@ -10,3 +10,5 @@ WRITE: 'TEST2'.
 Write: 'TEST Mahmoud'.
 *Hello from Mahmoud!
 WRITE: 'NEW TEST2'.
+
+WRITE: 'Hello World!!'.
